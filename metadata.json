@@ -1,0 +1,6 @@
+{
+  "name": "WordMem",
+  "description": "O‘zbek tilida so‘zlashuvchi o‘quvchilar uchun inglizcha so‘zlarni takrorlash va yozish orqali yodlash ilovasi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
